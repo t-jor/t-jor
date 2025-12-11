@@ -1,7 +1,9 @@
 # Hi there 👋
 
-I’ve always been drawn to understanding how people use products — what works, what doesn’t, and why.  
-After 15+ years in product management, I wanted to go deeper and learn how the analytical pipelines, models, and dashboards behind better decisions are built.
+I’ve always been drawn to understanding how people use products — what works, what doesn’t, and why.
+After 15+ years in product management, I wanted to go deeper and learn how to build the analytical pipelines, models, and dashboards behind better decisions.
+
+Over the past year, as part of my professional transition and hands-on analytics training, I built several end-to-end projects that reflect real modern data-stack workflows.
 
 Today I focus on building clean, thoughtful analytics that bridge product understanding and modern data engineering.
 
@@ -42,26 +44,28 @@ Each project taught me something different about performance, scaling, and desig
 ### **🧱 3) Data Modeling & Transformation**
 
 This is where everything comes together.  
-I used **dbt Cloud**, **SQL**, and **Jinja** to turn raw datasets into clean, testable, analytics-ready models — often following a medallion-style architecture.
+I used **dbt Cloud**, **SQL**, and **Jinja** to turn raw datasets into clean, testable, analytics-ready models — often following a medallion-style architecture to separate staging, transformation logic, and analytics outputs.
 
-**Examples:**  
-[PowerFlow - Marketing ROI](https://github.com/t-jor/marketing-roi-analytics) ·  
-[Silverscreen - Cinema Profitability](https://github.com/t-jor/cinema-profitability-analytics) ·  
-[MarketFlash - Campaign Database](https://github.com/t-jor/campaign-database-design) ·  
-[TravelTide - Customer Loyalty](https://github.com/t-jor/customer-loyalty-segmentation)
+**Examples:**
+
+- [PowerFlow - Marketing ROI](https://github.com/t-jor/marketing-roi-analytics) — modeling attribution, spend, and conversion metrics
+- [Silverscreen - Cinema Profitability](https://github.com/t-jor/cinema-profitability-analytics) — building modular revenue/cost models in dbt  
+- [MarketFlash - Campaign Database](https://github.com/t-jor/campaign-database-design) — deriving KPIs from a relational schema using SQL
+- [TravelTide - Customer Loyalty](https://github.com/t-jor/customer-loyalty-segmentation) — engineering segmentation features and perk logic
 
 ---
 
 ### **📊 4) BI & Dashboarding**
 
 I enjoy the storytelling side of analytics — turning models into intuitive dashboards that highlight what really matters.  
-I’ve worked with **Tableau** and **Looker Studio** to build clean, decision-oriented visualizations.
+I used **Tableau** and **Looker Studio** to design clean, decision-focused data stories.
 
-**Examples:**  
-[Spotify - Streaming KPIs](https://github.com/t-jor/music-streaming-kpi-analytics) ·  
-[Silverscreen - Cinema Profitability](https://github.com/t-jor/cinema-profitability-analytics) ·  
-[MarketFlash - Campaign Database](https://github.com/t-jor/campaign-database-design) ·  
-[HealthTail - Medication Audit](https://github.com/t-jor/diagnosis-medication-audit)
+**Examples:**
+
+- [Spotify - Streaming KPIs](https://github.com/t-jor/music-streaming-kpi-analytics) — engagement, churn drivers, monetization metrics
+- [Silverscreen - Cinema Profitability](https://github.com/t-jor/cinema-profitability-analytics) — theater-level insights for revenue, occupancy, cost
+- [MarketFlash - Campaign Database](https://github.com/t-jor/campaign-database-design) — multi-stage funnel & regional performance story
+- [HealthTail - Medication Audit](https://github.com/t-jor/diagnosis-medication-audit) — diagnosis & medication trends (Looker Studio)
 
 ---
 
