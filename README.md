@@ -13,31 +13,31 @@ I enjoy building clean, reproducible workflows — here’s how my projects map 
 ### **1) Data Loading / EL**
 **Tools:** Fivetran  
 **Projects:**  
-- [Ecom Cohort Analysis](https://github.com/t-jor/cohort-retention-analytics)
+- [Ecom - Cohort Retention Analytics](https://github.com/t-jor/cohort-retention-analytics)
 
 ### **2) Data Warehousing & Storage**
 **Tools:** Snowflake · BigQuery · Databricks  
 **Projects:**  
-- [PowerFlow](https://github.com/t-jor/marketing-roi-analytics)  
-- [Silverscreen](https://github.com/t-jor/cinema-profitability-analytics)  
-- [HealthTail](https://github.com/t-jor/diagnosis-medication-audit)  
-- [Ecom Cohort Analysis](https://github.com/t-jor/cohort-retention-analytics)
+- [PowerFlow - Marketing ROI Analytics](https://github.com/t-jor/marketing-roi-analytics)  
+- [Silverscreen - Cinema Profitability Analytics](https://github.com/t-jor/cinema-profitability-analytics)  
+- [HealthTail - Diagnosis Medication Audit](https://github.com/t-jor/diagnosis-medication-audit)  
+- [Ecom - Cohort Retention Analytics](https://github.com/t-jor/cohort-retention-analytics)
 
 ### **3) Data Modeling & Transformation**
 **Tools:** dbt Cloud · SQL · Jinja  
 **Projects:**  
-- [PowerFlow](https://github.com/t-jor/marketing-roi-analytics)  
-- [Silverscreen](https://github.com/t-jor/cinema-profitability-analytics)  
-- [MarketFlash](https://github.com/t-jor/campaign-database-design)  
-- [TravelTide](https://github.com/t-jor/customer-loyalty-segmentation)
+- [PowerFlow - Marketing ROI Analytics](https://github.com/t-jor/marketing-roi-analytics)  
+- [Silverscreen - Cinema Profitability Analytics](https://github.com/t-jor/cinema-profitability-analytics)  
+- [MarketFlash - Campaign Database Design](https://github.com/t-jor/campaign-database-design)  
+- [TravelTide - Customer Loyalty Segmentation](https://github.com/t-jor/customer-loyalty-segmentation)
 
 ### **4) BI & Dashboarding**
 **Tools:** Tableau · Looker Studio  
 **Projects:**  
-- [Spotify KPI Dashboard](https://github.com/t-jor/music-streaming-kpi-analytics)  
-- [Silverscreen Profitability](https://github.com/t-jor/cinema-profitability-analytics)  
-- [MarketFlash Performance](https://github.com/t-jor/campaign-database-design)  
-- [HealthTail Analytics](https://github.com/t-jor/diagnosis-medication-audit)
+- [Spotify - Music Streaming KPI Analytics](https://github.com/t-jor/music-streaming-kpi-analytics)  
+- [Silverscreen - Cinema Profitability Analytics](https://github.com/t-jor/cinema-profitability-analytics)  
+- [MarketFlash - Campaign Database Design](https://github.com/t-jor/campaign-database-design)  
+- [HealthTail - Diagnosis Medication Audits](https://github.com/t-jor/diagnosis-medication-audit)
 
 ---
 
