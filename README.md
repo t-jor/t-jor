@@ -22,8 +22,9 @@ Here’s how the different layers fit together:
 This is where raw operational data becomes structured and ready for analysis.  
 Using **Fivetran**, I built automated ingestion pipelines that feed directly into cloud warehouses.
 
-**Example:**  
-[Ecom - Cohort Retention](https://github.com/t-jor/cohort-retention-analytics) – ingestion of transactional e-commerce data for retention modeling
+**Example:**
+
+- [Ecom - Cohort Retention](https://github.com/t-jor/cohort-retention-analytics) – ingestion of transactional e-commerce data for retention modeling
 
 ---
 
