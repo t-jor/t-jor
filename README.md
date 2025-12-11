@@ -5,21 +5,21 @@ After 15+ years in product management, I wanted to go deeper and learn how to bu
 
 Over the past year, as part of my professional transition and hands-on analytics training, I built several end-to-end projects that mirror real modern data-stack workflows.
 
-Today I focus on building clean, thoughtful analytics that bridge product understanding and modern data engineering.
+Today I focus on building clean, thoughtful analytics that connect product understanding and modern data engineering.
 
 ---
 
 ## 🧩 How I work with the modern data stack
 
-Over the last year, I recreated real-world workflows across the full analytics lifecycle —  
+Throughout this journey, I recreated real-world workflows across the full analytics lifecycle —  
 from ingesting raw data to modeling it into meaningful structures and visualizing the story behind it.  
-Here’s what that journey looks like:
+Here’s how the different layers fit together:
 
 ---
 
 ### 📥 1) Data Loading & Integration (EL)
 
-This is where raw operational data becomes structured and ready for analysis.
+This is where raw operational data becomes structured and ready for analysis.  
 Using **Fivetran**, I built automated ingestion pipelines that feed directly into cloud warehouses.
 
 **Example:**  
@@ -29,8 +29,7 @@ Using **Fivetran**, I built automated ingestion pipelines that feed directly int
 
 ### **🏛️ 2) Data Warehousing & Storage**
 
-I worked with multiple warehouse setups — **Snowflake**, **BigQuery**, and **Databricks** — to explore how different environments shape data workflows.  
-Each project taught me something different about performance, scaling, and design decisions.
+I worked with multiple warehouse setups — **Snowflake**, **BigQuery**, and **Databricks** — to explore how different environments shape data workflows.
 
 **Examples:**
 
@@ -43,8 +42,7 @@ Each project taught me something different about performance, scaling, and desig
 
 ### **🧱 3) Data Modeling & Transformation**
 
-This is where everything comes together.  
-I used **dbt Cloud**, **SQL**, and **Jinja** to turn raw datasets into clean, testable, analytics-ready models — often following a medallion-style architecture to separate staging, transformation logic, and analytics outputs.
+This is where everything comes together. I used **dbt Cloud**, **SQL**, and **Jinja** to turn raw datasets into clean, testable, analytics models — often following a medallion-style approach to separate staging, transformation logic, and analytics outputs.
 
 **Examples:**
 
@@ -64,7 +62,7 @@ I used **Tableau** and **Looker Studio** to design clean, decision-focused data 
 
 - [Spotify - Streaming KPIs](https://github.com/t-jor/music-streaming-kpi-analytics) — engagement, churn drivers, monetization metrics
 - [Silverscreen - Cinema Profitability](https://github.com/t-jor/cinema-profitability-analytics) — theater-level insights for revenue, occupancy, cost
-- [MarketFlash - Campaign Database](https://github.com/t-jor/campaign-database-design) — multi-stage funnel & regional performance story
+- [MarketFlash - Campaign Database](https://github.com/t-jor/campaign-database-design) — campaign performance & regional breakdowns
 - [HealthTail - Medication Audit](https://github.com/t-jor/diagnosis-medication-audit) — diagnosis & medication trends (Looker Studio)
 
 ---
@@ -75,11 +73,11 @@ I used **Tableau** and **Looker Studio** to design clean, decision-focused data 
 **Modeling:** dbt Cloud · SQL · Jinja · Medallion Architecture  
 **ELT:** Fivetran · Delta Lake  
 **Analytics:** Tableau · Looker Studio  
-**Programming:** Python (basics · pandas)  
+**Programming:** Python (basics, pandas)  
 **Other:** Git · GitHub · Relational modeling · Databricks Notebooks (SQL + light PySpark)
 
 ---
 
 ## 📬 More
 
-You can find [my dashboards and visualizations](https://public.tableau.com/app/profile/thomas.jortzig/vizzes) on Tableau Public
+You can find [my dashboards and visualizations](https://public.tableau.com/app/profile/thomas.jortzig/vizzes) on Tableau Public.
