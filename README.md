@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I’ve always been drawn to understanding how people use products — what works, what doesn’t, and why.
+I’ve always been drawn to understanding how people use products — what works, what doesn’t, and why.  
 After 15+ years in product management, I wanted to go deeper and learn how to build the analytical pipelines, models, and dashboards behind better decisions.
 
-Over the past year, as part of my professional transition and hands-on analytics training, I built several end-to-end projects that reflect real modern data-stack workflows.
+Over the past year, as part of my professional transition and hands-on analytics training, I built several end-to-end projects that mirror real modern data-stack workflows.
 
 Today I focus on building clean, thoughtful analytics that bridge product understanding and modern data engineering.
 
@@ -19,11 +19,11 @@ Here’s what that journey looks like:
 
 ### 📥 1) Data Loading & Integration (EL)
 
-This is where raw operational data turns into structured, analysis-ready datasets.  
+This is where raw operational data becomes structured and ready for analysis.
 Using **Fivetran**, I built automated ingestion pipelines that feed directly into cloud warehouses.
 
 **Example:**  
-[Ecom - Cohort Retention](https://github.com/t-jor/cohort-retention-analytics) – ingestion of transactional e-commerce data for retention modeling.
+[Ecom - Cohort Retention](https://github.com/t-jor/cohort-retention-analytics) – ingestion of transactional e-commerce data for retention modeling
 
 ---
 
@@ -57,7 +57,7 @@ I used **dbt Cloud**, **SQL**, and **Jinja** to turn raw datasets into clean, te
 
 ### **📊 4) BI & Dashboarding**
 
-I enjoy the storytelling side of analytics — turning models into intuitive dashboards that highlight what really matters.  
+I enjoy the storytelling side of analytics — turning models into intuitive dashboards that highlight what matters most.  
 I used **Tableau** and **Looker Studio** to design clean, decision-focused data stories.
 
 **Examples:**
@@ -75,11 +75,11 @@ I used **Tableau** and **Looker Studio** to design clean, decision-focused data 
 **Modeling:** dbt Cloud · SQL · Jinja · Medallion Architecture  
 **ELT:** Fivetran · Delta Lake  
 **Analytics:** Tableau · Looker Studio  
-**Programming:** Python (basics · pandas)
+**Programming:** Python (basics · pandas)  
 **Other:** Git · GitHub · Relational modeling · Databricks Notebooks (SQL + light PySpark)
 
 ---
 
 ## 📬 More
 
-You can find [My Dashboards and Visualizations](https://public.tableau.com/app/profile/thomas.jortzig/vizzes) on Tableau Public
+You can find [my dashboards and visualizations](https://public.tableau.com/app/profile/thomas.jortzig/vizzes) on Tableau Public
