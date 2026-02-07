@@ -68,17 +68,32 @@ I used **Tableau** and **Looker Studio** to design clean, decision-focused data 
 
 ---
 
+### 📈 5) Exploratory Analysis & Statistical Modeling (Python)
+
+In addition to data engineering and BI workflows, I also work with Python-based exploratory analysis and statistical methods to better understand data structure, relationships, and limitations.
+
+**Examples:**
+
+- [Car Market Analysis](https://github.com/t-jor/car-market-analysis) — pricing, fuel efficiency, and popularity analysis using EDA, correlation, regression, and ANOVA (Python, Jupyter Notebook)
+
+---
+
 ## 🧰 Core Tech Stack
 
 **Warehousing:** Snowflake · BigQuery · Databricks  
 **Modeling:** dbt Cloud · SQL · Jinja · Medallion Architecture  
 **ELT:** Fivetran · Delta Lake  
 **Analytics:** Tableau · Looker Studio  
-**Programming:** Python (basics, pandas)  
+**Programming & Analysis:** Python (pandas, matplotlib, seaborn, statsmodels)
+
 **Other:** Git · GitHub · Relational modeling · Databricks Notebooks (SQL + light PySpark)
 
 ---
 
-## 📬 More
+## 📎 More
 
-You can find [my dashboards and visualizations](https://public.tableau.com/app/profile/thomas.jortzig/vizzes) on Tableau Public.
+You can find my dashboards and visualizations on  
+👉 [Tableau Public](https://public.tableau.com/app/profile/thomas.jortzig/vizzes)
+
+A complete overview of my data projects and case studies is available on GitHub:  
+👉 [All GitHub repositories](https://github.com/t-jor?tab=repositories)
