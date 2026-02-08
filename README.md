@@ -74,7 +74,7 @@ In addition to data engineering and BI workflows, I also work with Python-based 
 
 **Examples:**
 
-- [Car Market Analysis](https://github.com/t-jor/car-market-analysis) — pricing, fuel efficiency, and popularity analysis using EDA, correlation, regression, and ANOVA (Python, Jupyter Notebook)
+- [Car Market Analysis](https://github.com/t-jor/car-market-analysis) — pricing, efficiency & popularity (Python | EDA, regression, ANOVA)
 
 ---
 
