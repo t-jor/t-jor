@@ -78,12 +78,23 @@ In addition to data engineering and BI workflows, I also work with Python-based 
 
 ---
 
+### 🤖 6) Machine Learning & Explainability
+
+Beyond descriptive and diagnostic analytics, I build supervised classification models and validate that they can actually be trusted operationally — through hyperparameter and threshold tuning, methodical checks (encoding choices, multicollinearity), and per-prediction explainability with SHAP.
+
+**Example:**
+
+- [Delivery Delay Prediction](https://github.com/t-jor/delivery-delay-prediction) — explainable early-warning model for late deliveries at parcel intake, 3-person team project (Python | scikit-learn, XGBoost, SHAP)
+
+---
+
 ## 🧰 Core Tech Stack
 
 **Warehousing:** Snowflake · BigQuery · Databricks  
 **Modeling:** dbt Cloud · SQL · Jinja · Medallion Architecture  
 **ELT:** Fivetran · Delta Lake  
 **Analytics:** Tableau · Looker Studio  
+**Machine Learning:** scikit-learn · XGBoost · SHAP  
 **Programming & Analysis:** Python (pandas, matplotlib, seaborn, statsmodels)
 
 **Other:** Git · GitHub · Relational modeling · Databricks Notebooks (SQL + light PySpark)
