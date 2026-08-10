@@ -84,7 +84,7 @@ Beyond descriptive and diagnostic analytics, I build supervised classification m
 
 **Example:**
 
-- [Delivery Delay Prediction](https://github.com/t-jor/delivery-delay-prediction) — explainable early-warning model for late deliveries at parcel intake, 3-person team project (Python | scikit-learn, XGBoost, SHAP)
+- [Delivery Delay Prediction](https://github.com/t-jor/delivery-delay-prediction) — explainable delay-prediction model, 3-person team project (Python | scikit-learn)
 
 ---
 
